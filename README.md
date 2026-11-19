@@ -108,10 +108,10 @@ oc whoami
 
 Confirme que você fez fork dos dois repositórios:
 
-- `lab-openshift-app`: código da aplicação (um `index.html` e um `Dockerfile` que parte de `registry.access.redhat.com/ubi9/httpd-24`).
-- `lab-openshift-config`: manifestos com `base/` e `overlays/dev` e `overlays/prod` (Kustomize).
+- `lab-openshift-app`: código da aplicação (um `index.html` e um `Dockerfile` que parte de `registry.access.redhat.com/ubi9/httpd-24`). Repositório modelo: https://github.com/phximenes/lab-openshift-app
+- `lab-openshift-config`: manifestos com `base/` e `overlays/dev` e `overlays/prod` (Kustomize). Repositório modelo: https://github.com/phximenes/lab-openshift-config
 
-Se o fork ainda não foi feito, faça agora, antes do Bloco 8.
+Se o fork ainda não foi feito, abra cada repositório modelo acima e clique em **Fork**, na sua conta GitHub, antes do Bloco 8.
 
 ---
 
